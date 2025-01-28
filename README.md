@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: a TypeError occurring when attempting to perform mathematical operations (specifically, calculating the average) on a list containing mixed data types (numbers and strings). The `bug.py` file shows the erroneous code, while `bugSolution.py` provides a corrected version that handles this error gracefully.
